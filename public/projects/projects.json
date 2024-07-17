@@ -1,0 +1,19 @@
+{
+	"projects": [
+		{
+			"id" : 1,
+			"name": "E attendance", 
+			"desc" : "An Online attendance platform",
+			"giturl": "https://google.com",
+			"liveurl":"https://google.com"
+
+		},
+		 {
+			 "id" : 2,
+			 "name": "Rss Feed Aggregator", 
+			 "desc" : "A Rss feed scraper API", 
+			 "giturl": "https://google.com",
+			 "liveurl": "https://google.com"
+		 }
+	]
+}
